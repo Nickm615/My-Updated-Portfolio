@@ -1,1 +1,1 @@
-# My-Updated-Portfolio
+# This is my second draft of my professional portfolio. Much of it is a work in progress but I have the framework in place to build upon throughout the rest of the program.
